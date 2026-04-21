@@ -16,16 +16,49 @@ header h1 {
 }
 nav {
   text-align: center;
-
-  /* background-color: blue; */
+  background-color: #3e362e;
+  padding: 10px 0;
 }
 nav a {
   margin: 0 12px;
   text-decoration: none;
-  color: white;
+  color: wheat;
 }
 img {
-  width: 50px;
-  height: 50px;
+  margin-top: 8px;
+  width: 240px;
+  height: 200px;
+}
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 per row */
+  gap: 25px;
 }
 
+.card {
+  border: 2px solid #3e362e;
+  text-align: center;
+  border-radius: 8px;
+}
+footer {
+  padding: 5px 16px 6px 8px;
+  background-color: #3e362e;
+  color: wheat;
+  text-align: center;
+}
+section {
+  width: 90%;
+  margin: 20px auto;
+  text-align: center;
+}
+.card:hover {
+  background-color: #93785b;
+  font-weight: bolder;
+  border-color: black;
+  cursor: pointer;
+}
+
+nav a:hover {
+    font-weight: bolder;
+    
+}
