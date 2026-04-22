@@ -19,7 +19,7 @@ Mocha Gallery is a simple travel photography website that showcases different de
    - Double-click the file to open in browser
 
 ## Live Site
-https://YOUR-USERNAME.github.io/YOUR-REPO/
+https://manwamocha.github.io/photography-website/
 
 ## Copyright and License
 © 2026 Augustus Mocha
