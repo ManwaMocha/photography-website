@@ -29,4 +29,4 @@ https://manwamocha.github.io/photography-website/
 
 © 2026 Augustus Mocha
 
-This project is for educational purposes. You are free to use and modify it for learning purposes.
+
